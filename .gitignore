@@ -1,0 +1,5 @@
+#ignorando tipos de archivos
+*.xls
+*xlsx
+
+#git config --global core.excludesfile ~/.gitignore_global
